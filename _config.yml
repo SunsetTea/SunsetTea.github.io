@@ -37,6 +37,7 @@ remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  date_format: "%Y-%m-%d %H:%M"
 
   social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
